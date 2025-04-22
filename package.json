@@ -1,0 +1,35 @@
+{
+  "name": "streams2",
+  "version": "0.1.1",
+  "description": "Wrap a 0.8 stream into a streams2 stream",
+  "keywords": [],
+  "author": "Raynos <denis.rylikov@protongmail.com>",
+  "repository": "git://github.com/drylikov/streams2.git",
+  "main": "index",
+  "homepage": "https://github.com/drylikov/streams2",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/drylikov/streams2/issues",
+    "email": "denis.rylikov@protongmail.com"
+  },
+  "dependencies": {
+    "re-emitter": "~0.2.0",
+    "read-write-stream": "~0.1.4"
+  },
+  "devDependencies": {
+    "tap": "~0.3.1"
+  },
+  "licenses": [
+    {
+      "type": "",
+      "url": ""
+    }
+  ],
+  "scripts": {
+    "test": "tap --stderr --tap ./test"
+  }
+}
