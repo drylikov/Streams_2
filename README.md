@@ -1,8 +1,8 @@
 # streams2
 
-Turn a node 0.8 stream into a node 0.10 stream
+Turn a node 0.8 stream into a node 0.10 stream.
   
-Its useful because streams2 buffer internally, so you no longer need pause-stream
+Its useful because streams2 buffer internally, so you no longer need pause-stream.
 
 ## Example
 
